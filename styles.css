@@ -98,3 +98,7 @@ p {
 span {
     color: #2BD6B4;
 }
+
+.module {
+  cursor: url('cursor.png'), auto;	
+}
