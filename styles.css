@@ -82,7 +82,7 @@ h1 {
   font-size: 30px;
   color: #ecf0f1;
   text-shadow: 2px 2px 4px #000000;
-  font-family: 'Cherry Swash', cursive;
+  font-family: 'sans-serif';
 }
 
 p {
@@ -91,7 +91,7 @@ p {
     width: 100%;
     text-align: center;
     color: #ecf0f1;
-    font-family: 'Cherry Swash',cursive;
+    font-family: 'sans-serif';
     font-size: 16px;
 }
 
