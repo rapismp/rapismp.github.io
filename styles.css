@@ -72,7 +72,7 @@ nav .start-contact, a:nth-child(5):hover~.animation {
 
 body {
   font-size: 12px;
-  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  font-family: sans-serif;
   background: #2022-07-06_12.15.41.png;
 }
 h1 {
@@ -91,7 +91,7 @@ p {
     width: 100%;
     text-align: center;
     color: #ecf0f1;
-    font-family: 'sans-serif';
+    font-family: '"Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;';
     font-size: 16px;
 }
 
